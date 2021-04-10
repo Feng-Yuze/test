@@ -6,7 +6,7 @@
 ### DBMS的种类：
 1. **层次数据库(Hierarchical Database, HDB)**  
   现在已经很少使用
-3. **关系数据库(Relational Database, RDB)**
+2. **关系数据库(Relational Database, RDB)**
   * 现在应用最广泛的数据库
   * 采用行和列组成的二维表来管理数据，简单易懂
   * 使用专门的SQL(Structured Query Language)对数据进行操作
@@ -16,9 +16,9 @@
        * DB2： IBM的RDBMS
        * PostgreSQL: 开源的RDBMS
        * MySQL: 开源的RDBMS
-  * 面向对象数据库(Object Oriented Database, OODB)
-  * XML数据库(XML Database, XMLDB)
-  * 键值存储系统(Key-Value Store, KVS)
+3. **面向对象数据库(Object Oriented Database, OODB)**
+4. **XML数据库(XML Database, XMLDB)**
+5. **键值存储系统(Key-Value Store, KVS)**
 # 1-2 数据库的结构
 ## 数据库的常见系统结构  
    客户端/服务器类型(C/S)是最常见的系统结构  
